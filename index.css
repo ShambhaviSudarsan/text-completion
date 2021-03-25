@@ -1,0 +1,11 @@
+.body{
+    background-color: #e48257;
+}
+
+.top{
+    margin-top: 50px;
+}
+
+.clickable{
+    cursor: pointer;
+}
